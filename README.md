@@ -53,6 +53,7 @@
 If you would like me to add support for a missing game in a future update, please provide the following details:
 
 * **Game Name**
+* **CRC**
 * **The log file** generated at `%programdata%\GOG.com\Galaxy` (`plugin-nes-167e722f-be59-42a3-8f8a-16ec7745b858.log`)
 
 🎫 **Open a ticket on the [Issues](https://github.com/Notimagination/galaxy-ps2-integration-renew/issues) page**.
