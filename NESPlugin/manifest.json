@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy Nintendo Entertainment System Integration",
+    "platform": "nes",
+    "guid": "167e722f-be59-42a3-8f8a-16ec7745b858",
+    "version": "1.0.0",
+    "description": "NES / Famicom local game integration for GOG Galaxy 2.1+ with ROM identification (CRC32), official names, Mesen launching and playtime tracking",
+    "author": "Notimagination",
+    "email": "Notimagination@users.noreply.github.com",
+    "url": "https://github.com/Notimagination",
+    "script": "plugin.py"
+}
