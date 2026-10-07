@@ -26,7 +26,7 @@
 
 ## 📦 Installation Guide
 
-1. Download the `.zip` file from this repository, or you can check the [releases](ttps://github.com/Notimagination/galaxy-nes-integration/releases) page for the latest updates.
+1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-nes-integration/releases) page for the latest updates.
    
    <img width="942" height="382" alt="Captura de pantalla 2026-10-07 095131" src="https://github.com/user-attachments/assets/491dc159-34b5-418b-9635-c7fa30e2f66e" />
 
