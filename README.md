@@ -15,11 +15,11 @@
 | Integration | Status | Achievements | Game Time | Download |
 |-------------|--------|--------------|-----------|----------|
 | PS2 | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-ps2-integration-renew/tree/main) |
-| Switch | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
+| Switch | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
 | PSP | ⏳ Planned | ⚠️ | ✅ | Download |
 | WII | ⏳ Planned | ⚠️ | ✅ | Download |
 | PS3 | ⏳ Planned | ❌ | ✅ | Download |
-| Local games | ⏳ Planned | ❌ | ✅ | Download |
+| Local games | ✅ Released | ❌ | ✅ | Download |
 
   > [!NOTE]
   > Some emulators may support achievements through [RetroAchievements](https://retroachievements.org/), provided that GOG decides to integrate with the system. If that ever happens (which I highly doubt), I’ll implement it.
