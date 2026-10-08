@@ -46,7 +46,7 @@
 
 5. Click the **Save config** button and wait for your games to import.
 
-  <img width="1972" height="885" alt="step3" src="https://github.com/user-attachments/assets/3cd40f6c-6b39-405e-98b8-81c7890088a5" />
+  <img width="1969" height="909" alt="Captura de pantalla 2026-10-08 112358" src="https://github.com/user-attachments/assets/272cd2ac-fb71-403d-868c-05f9dcb2e1a5" />
 
 ## 🎮 Requesting Game Additions
 
